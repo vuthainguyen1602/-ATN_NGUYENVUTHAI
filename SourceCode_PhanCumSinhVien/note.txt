@@ -1,0 +1,4 @@
+Installing DevComponents.DotNetBar.Charts.dll directly to Windows.
+Copy the .DLL file to your C:\Windows\System32\ folder. (32 bit)
+Copy the .DLL file to your C:\Windows\SysWOW64\ folder. (64 bit)
+DLL installation has been completed!

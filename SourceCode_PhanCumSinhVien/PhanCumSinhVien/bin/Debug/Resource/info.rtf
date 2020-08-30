@@ -1,0 +1,271 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\fswiss\fcharset0 Helvetica;
+\f3\fswiss\fcharset0 Helvetica-Bold;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat6\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+{\info
+{\author Tr?n Xu\'e2n ??c}}\margl1440\margr1440\vieww28600\viewh18000\viewkind0
+\deftab720
+\pard\pardeftab720\li720\fi-720\ri0\sl259\slmult1\sa160\qc\partightenfactor0
+
+\f0\b\fs28 \cf0 NGHI\'caN C\uc0\u7912 U THU\u7852 T TO\'c1N K-MEANS\
+V\'c0  \uc0\u7912 NG D\u7908 NG PH\'c2N C\u7908 M SINH VI\'caN C\'d4NG NGH\u7878  TH\'d4NG TIN\
+\pard\pardeftab720\li720\fi-720\ri0\sl259\slmult1\sa160\partightenfactor0
+\cf0 M\'e3 sinh vi\'ean: 5751071039 \
+H\uc0\u7885  v\'e0 t\'ean: Nguy\u7877 n V\u361  Th\'e1i\
+\pard\pardeftab720\fi567\ri0\sl259\slmult1\sa160\partightenfactor0
+
+\fs26 \cf0 Gi\uc0\u7899 i thi\u7879 u\
+\pard\pardeftab720\fi720\ri0\sl360\slmult1\qj\partightenfactor0
+
+\f1\b0 \cf0 Gi\uc0\u7843  s\u7917 
+\f2  sau khi c\'f3 \uc0\u273 i
+\f1 \uc0\u7875 m cu\u7889 i h\u7885 c k\'ec, cu\u7889 
+\f2 i n\uc0\u259 m h
+\f1 \uc0\u7885 c \'85 b\u7841 n nh\'ecn b\u7843 
+\f2 ng \uc0\u273 i
+\f1 \uc0\u7875 m c\u7911 a khoa C\'f4ng ngh\u7879  th\'f4ng tin \'85 v\'e0 mu\u7889 
+\f2 n \uc0\u273 \u432 a ra m
+\f1 \uc0\u7897 t v\'e0i k\u7871 t lu\u7853 
+\f2 n n\'e0o \uc0\u273 \'f3 v
+\f1 \uc0\u7873  t\'ecnh h\'ecnh h\u7885 c t\u7853 p, b\u7841 n mu\u7889 n kh\u7843 
+\f2 o s\'e1t \uc0\u273 i
+\f1 \uc0\u7875 m c\u7911 
+\f2 a sinh vi\'ean \uc0\u273 
+\f1 \uc0\u7875  m\u7903  m\'f4n h\u7885 c cho ph\'f9 h\u7907 p hay nh\u7919 ng b\u7841 n c\u7847 
+\f2 n t\uc0\u432  v
+\f1 \uc0\u7845 n cho sinh vi\'ean c\u7911 a khoa m\'ecnh l\u7921 a ch\u7885 n chuy\'ean ngh\'e0nh ph\'f9 h\u7907 p v\u7899 
+\f2 i n\uc0\u259 ng l
+\f1 \uc0\u7909 c c\u7911 a sinh vi\'ean. B\u7841 n s\u7869  l\'e0m th\u7871  n\'e0o?\
+\pard\pardeftab720\fi720\ri0\sl360\slmult1\qj\partightenfactor0
+
+\f0\b \cf0 Th\uc0\u7913  nh\u7845 t,
+\f2\b0  t\'ednh \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh. 
+\f2 \uc0\u272 \'e2y l\'e0 m
+\f1 \uc0\u7897 t trong nh\u7919 
+\f2 ng c\'e1ch \uc0\u273 \u417 n gi
+\f1 \uc0\u7843 n nh\u7845 t. D\u7921 
+\f2 a v\'e0o \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh c\'f3 th\u7875 
+\f2  \uc0\u273 \u432 a ra v\'e0i nh
+\f1 \uc0\u7853 n x\'e9t v\u7873  t\'ecnh h\'ecnh h\u7885 c t\u7853 p. Gi\u7843  s\u7917  h\u7885 c k\u7923 
+\f2  n\'e0y \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh m\'f4n Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng
+\f1  c\uc0\u7911 a l\u7899 p CQ.57.CNTT l\'e0 7.2, c\u7911 a l\u7899 p CQ.58.CNTT
+\f2  l\'e0 7.6, nh\uc0\u432  v
+\f1 \uc0\u7853 y c\'f3 th\u7875  nh\u7853 n x\'e9t m\u7897 t c\'e1ch \'93n\'f3ng v\u7897 i\'94 r\u7857 ng h\u7885 c k\u7923  n\'e0y sinh vi\'ean l\u7899 p  CQ.58.CNTT h\u7885 c Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng
+\f1  t\uc0\u7889 
+\f2 t h\uc0\u417 n l
+\f1 \uc0\u7899 p CQ.57.CNTT v\'e0 c\u7843  2 l\u7899 
+\f2 p \uc0\u273 
+\f1 \uc0\u7873 u h\u7885 c kh\'e1 m\'f4n Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng
+\f1 .\
+T\uc0\u7845 t nhi\'ean nh\u7919 ng nh\u7853 
+\f2 n x\'e9t n\'e0y c\'f3 \uc0\u273 
+\f1 \uc0\u7897  tin c\u7853 
+\f2 y v\'e0 ch\'ednh x\'e1c ch\uc0\u432 a cao 
+\f1 v\'ec c\'f3 th\uc0\u7875  c\'f3 nh\u7919 ng sinh vi\'ean c\u7911 a l\u7899 p
+\f2  \uc0\u273 i
+\f1 \uc0\u7875 m r\u7845 
+\f2 t cao, ng\uc0\u432 
+\f1 \uc0\u7907 c l\u7841 
+\f2 i c\uc0\u361 ng c\'f3 \u273 i
+\f1 \uc0\u7875 m r\u7845 t th\u7845 p. R\'f5 r\'e0ng t\'ednh trung b\'ecnh r\u7845 
+\f2 t \uc0\u273 \u417 n gi
+\f1 \uc0\u7843 n v\'e0 \'93m\u7841 nh m\u7869 \'94 (t\u7915 
+\f2  \uc0\u273 i
+\f1 \uc0\u7875 m c\u7911 
+\f2 a h\'e0ng tr\uc0\u259 m sinh vi\'ean m
+\f1 \uc0\u7897 t l\u7899 p, t\u7913 
+\f2 c l\'e0 h\'e0ng tr\uc0\u259 m m
+\f1 \uc0\u7851 u d\u7919  li\u7879 u kh\'e1c nhau, chuy\u7875 n th\'e0nh m\u7897 
+\f2 t \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh duy nh\u7845 t, v\'e0 c\'f3 th\u7875  d\u7921 a v\'e0o
+\f2  \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh 
+\f2 \uc0\u273 
+\f1 \uc0\u7875  nh\u7853 n x\'e9t v\u7873 
+\f2  \uc0\u273 i
+\f1 \uc0\u7875 m c\u7911 
+\f2 a h\'e0ng tr\uc0\u259 m sinh vi\'ean), nh\u432 ng v
+\f1 \'ec th\uc0\u7871  m\'e0 n\'f3 l\'e0m m\u7845 t th\'f4ng tin v\u7873  ph\'e2n b\u7889  c\u7911 a d\u7919  li\u7879 u.\
+
+\f0\b Th\uc0\u7913  hai,
+\f1\b0  t\'ednh k\'ec v\uc0\u7885 
+\f2 ng v\'e0 ph\uc0\u432 \u417 ng sai. M
+\f1 \uc0\u7897 
+\f2 t ng\uc0\u432 
+\f1 \uc0\u7901 i h\u7885 c l\u7899 p th\u7889 
+\f2 ng k\'ea c\uc0\u417  b
+\f1 \uc0\u7843 n s\u7869  bi\u7871 t c\'e1ch t\'ednh k\'ec v\u7885 
+\f2 ng v\'e0 ph\uc0\u432 \u417 ng sai c
+\f1 \uc0\u7911 a d\u7919  li\u7879 u. Trong tr
+\f2 \uc0\u432 
+\f1 \uc0\u7901 ng h\u7907 p n\'e0y th\'ec k\'ec v\u7885 
+\f2 ng ch\'ednh l\'e0 \uc0\u273 i
+\f1 \uc0\u7875 m trung b\'ecnh c\u7897 ng. D\u7921 a v\'e0o k\'ec v\u7885 
+\f2 ng v\'e0 ph\uc0\u432 \u417 ng sai, ta s
+\f1 \uc0\u7869  c\'f3 th\u7875 
+\f2  \uc0\u273 \u432 a ra nh
+\f1 \uc0\u7919 ng nh\u7853 n x\'e9t s\'e2u s\u7855 c v\'e0 \'edt \'93n\'f3ng v\u7897 
+\f2 i\'94 h\uc0\u417 n. Ch
+\f1 \uc0\u7859 ng h\u7841 n n\u7871 u l\u7899 p CQ.57.CNTT 
+\f2 c\'f3 \uc0\u273 i
+\f1 \uc0\u7875 m k\'ec v\u7885 ng m\'f4n Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng l\'e0 7.2 v\'e0 ph\u432 \u417 ng sai 2.5, l
+\f1 \uc0\u7899 p CQ.58.CNTT
+\f2  c\'f3 \uc0\u273 i
+\f1 \uc0\u7875 m k\'ec v\u7885 
+\f2 ng 7.6 nh\uc0\u432 ng ph\u432 \u417 ng sai 1.5, th
+\f1 \'ec c\'f3 th\uc0\u7875  k\u7871 t lu\u7853 n l\'e0 nh\'ecn chung l\u7899 p CQ.57.CNTT h\u7885 c Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng
+\f1  t\uc0\u7889 t
+\f2  h\uc0\u417 n
+\f1  l\uc0\u7899 p CQ.58.CNTT
+\f2   nh\uc0\u432 ng l
+\f1 \uc0\u7899 p CQ.58.CNTT h\u7885 
+\f2 c \'93\uc0\u273 
+\f1 \uc0\u7873 u\'94 m\'f4n Tin h\u7885 
+\f2 c \uc0\u273 
+\f1 \uc0\u7841 
+\f2 i c\uc0\u432 \u417 ng h\u417 n l
+\f1 \uc0\u7899 p CQ.57.CNTT  (ngh\u297 a l\'e0 kh\'f4ng c\'f3 ch\'eanh l\u7879 ch qu\'e1 l\u7899 n gi\u7919 a c\'e1c sinh vi\'ean)\'85v\'e0 c\'f3 th\u7875  c\'f3 th\'eam r\u7845 t nhi\u7873 u k\u7871 t lu\u7853 n kh\'e1c n\u7919 a. \
+
+\f0\b Th\uc0\u7913  ba,
+\f2\b0  \uc0\u273 
+\f1 \uc0\u7871 m s\u7889 
+\f2  l\uc0\u432 
+\f1 \uc0\u7907 
+\f2 ng \uc0\u273 i
+\f1 \uc0\u7875 
+\f2 m trong ng\uc0\u432 
+\f1 \uc0\u7905 
+\f2 ng n\'e0o \uc0\u273 \'f3. Ch
+\f1 \uc0\u7859 ng h\u7841 n ta c\'f3 th\u7875  n\'f3i: trong 100 sinh vi\'ean th\'ec c\'f3 80 sinh vi\'ean 
+\f2 \uc0\u273 
+\f1 \uc0\u7841 
+\f2 t \uc0\u273 i
+\f1 \uc0\u7875 
+\f2 m tr\'ean 5.0 v\'e0 20 sinh vi\'ean d\uc0\u432 
+\f1 \uc0\u7899 
+\f2 i 5.0. Nh\uc0\u432  v
+\f1 \uc0\u7853 y c\'f3 th\u7875  hi\u7875 u kh\u7889 i l\u7899 p c\'f3 4/5 sinh vi\'ean tr\'ean trung b\'ecnh. M\u7897 t c\'e1ch chi ti\u7871 
+\f2 t h\uc0\u417 n, ta c\'f3 th
+\f1 \uc0\u7875  n\'f3i: trong 80 sinh vi\'ean tr\'ean trung b\'ecnh th\'ec c\'f3 20 sinh vi\'ean l\'e0 tr\'ean 8.0, 20 sinh vi\'ean l\'e0 t\u7915 
+\f2  6.5 \uc0\u273 
+\f1 \uc0\u7871 n c\u7853 n 8.0, v\'e0 40 sinh vi\'ean l\'e0 t\u7915 
+\f2  5.0 \uc0\u273 
+\f1 \uc0\u7871 n c\u7853 
+\f2 n 6.0. Nh\uc0\u432  v
+\f1 \uc0\u7853 y c\'f3 th\u7875  hi\u7875 u s\'e2u s\u7855 
+\f2 c h\uc0\u417 n r
+\f1 \uc0\u7857 ng kh\u7889 i l\u7899 p c\'f3 1/5 sinh vi\'ean gi\u7887 i, 2/5 sinh vi\'ean kh\'e1 v.v\'85. \
+Nh\uc0\u7919 ng l\'fd do v\u7915 
+\f2 a n\'eau tr\'ean c\uc0\u361 ng \u273 
+\f1 \'e3 cho ch\'fang ta th\uc0\u7845 
+\f2 y \uc0\u273 \u432 
+\f1 \uc0\u7907 c r\u7857 ng vi\u7879 
+\f2 c ph\'e2n t\'edch, \uc0\u273 \'e1nh gi\'e1 k
+\f1 \uc0\u7871 t qu\u7843  h\u7885 c t\u7853 p c\u7911 a sinh vi\'ean kh\'f4ng ph\u7843 i l\'e0 m\u7897 t vi\u7879 
+\f2 c \uc0\u273 \u417 n gi
+\f1 \uc0\u7843 n
+\f2 . N\'f3 \uc0\u273 
+\f1 \'f2i h\uc0\u7887 i gi\u7843 ng vi\'ean, c\'e1c nh\'e0 qu\u7843 n l\'fd gi\'e1o d\u7909 c c\'f3 m\u7897 t s\u7921 
+\f2  \uc0\u273 
+\f1 \uc0\u7847 u
+\f2  t\uc0\u432 , nghi\'ean c
+\f1 \uc0\u7913 u, t\'ecm t\'f2i v\'e0 s\'e1ng t\u7841 o \'85 nh\u7857 
+\f2 m \uc0\u273 \u432 a ra \u273 \u432 
+\f1 \uc0\u7907 
+\f2 c c\'e1c ph\'e2n t\'edch, \uc0\u273 \'e1nh gi\'e1 \u273 \'fang \u273 
+\f1 \uc0\u7855 n nh\u7845 t, ch\'ednh x\'e1c nh\u7845 t v\u7873  k\u7871 t qu\u7843  h\u7885 c t\u7853 p c\u7911 a sinh vi\'ean t\u7915 
+\f2  \uc0\u273 \'f3 \u273 
+\f1 \uc0\u7873 
+\f2  ra \uc0\u273 
+\f1 \uc0\u7883 
+\f2 nh h\uc0\u432 
+\f1 \uc0\u7899 ng, ho\u7841 
+\f2 ch \uc0\u273 
+\f1 \uc0\u7883 
+\f2 nh cho nh\'e0 tr\uc0\u432 
+\f1 \uc0\u7901 ng trong vi\u7879 
+\f2 c: \uc0\u273 
+\f1 \uc0\u7847 
+\f2 u t\uc0\u432  b
+\f1 \uc0\u7891 
+\f2 i d\uc0\u432 
+\f1 \uc0\u7905 ng gi\'e1o vi\'ean b\u7897  m\'f4n c\'f2n y\u7871 u, ph\'e1t hi\u7879 n sinh vi\'ean gi\u7887 
+\f2 i \uc0\u273 
+\f1 \uc0\u7875  b\u7891 
+\f2 i d\uc0\u432 
+\f1 \uc0\u7905 
+\f2 ng, sinh vi\'ean k\'e9m \uc0\u273 
+\f1 \uc0\u7875 
+\f2  \uc0\u273 
+\f1 \uc0\u7883 
+\f2 nh h\uc0\u432 
+\f1 \uc0\u7899 ng h\u7885 c t\u7853 p, c\'f3 k\u7871  ho\u7841 
+\f2 ch t\uc0\u259 ng gi
+\f1 \uc0\u7901 
+\f2 , t\uc0\u259 ng ti
+\f1 \uc0\u7871 
+\f2 t, \uc0\u273 
+\f1 \uc0\u7883 
+\f2 nh h\uc0\u432 
+\f1 \uc0\u7899 ng ngh\u7873  nghi\u7879 p cho sinh vi\'ean d\u7921 a tr\'ean s\u7903  th\'edch, 
+\f2 \uc0\u273 
+\f1 \uc0\u7883 
+\f2 nh h\uc0\u432 
+\f1 \uc0\u7899 ng ng\'e0nh h\u7885 c ph\'f9 h\u7907 p v\u7899 
+\f2 i n\uc0\u259 ng l
+\f1 \uc0\u7921 c, kh\u7843 o s\'e1t m\u7903  l\u7899 p h\u7885 c ph\u7847 n ph\'f9 h\u7907 p v.v\'85\
+\pard\pardeftab720\ri0\partightenfactor0
+
+\f0\b \cf0            
+\f3 \uc0\u272 
+\f0 \uc0\u7847 u v\'e0o
+\f1\b0 : \
+\pard\pardeftab720\li1440\fi-360\ri0\sl360\slmult1\qj\partightenfactor0
+\ls1\ilvl0\cf0 -	T\uc0\u7853 p d\u7919  li\u7879 u g\u7891 m 250 sinh vi\'ean Khoa C\'f4ng ngh\u7879 
+\f2  th\'f4ng tin tr\uc0\u432 
+\f1 \uc0\u7901 
+\f2 ng \uc0\u272 
+\f1 \uc0\u7841 i h\u7885 c Giao Th\'f4ng V\u7853 n T\u7843 i ph\'e2n hi\u7879 u t\u7841 i Th\'e0nh Ph\u7889  H\u7891  Ch\'ed Minh
+\f2  \uc0\u273 
+\f1 \'e3 qua c\'e1c b
+\f2 \uc0\u432 
+\f1 \uc0\u7899 c ti\u7873 n x\u7917  l\'fd. M\u7895 i sinh vi\'ean g\u7891 m c\'e1c thu\u7897 c t\'ednh M\'e3 sinh vi\'ean, H\u7885 , T\'ean, T\'ean l\u7899 
+\f2 p v\'e0 \uc0\u273 i
+\f1 \uc0\u7875 m c\'e1c m\'f4n h\u7885 c.\
+-	Danh s\'e1ch c\'e1c m\'f4n h\uc0\u7885 
+\f2 c \uc0\u273 \u432 
+\f1 \uc0\u7907 c ch\u7885 
+\f2 n \uc0\u273 
+\f1 \uc0\u7875  ph\'e2n c\u7909 m.\
+-	S\uc0\u7889  c\u7909 m k c\u7847 n ph\'e2n c\u7909 m.\
+\pard\pardeftab720\fi720\ri0\sl360\slmult1\qj\partightenfactor0
+
+\f3\b \cf0 \uc0\u272 
+\f0 \uc0\u7847 u ra
+\f1\b0 : \uc0\u7912 ng d\u7909 ng c\'f3 kh\u7843 
+\f2  n\uc0\u259 ng ph\'e2n c
+\f1 \uc0\u7909 
+\f2 m ch\'ednh x\'e1c \uc0\u273 i
+\f1 \uc0\u7875 m c\'e1c sinh vi\'ean trong t\u7853 p d\u7919  li\u7879 u v\'e0 file Excel chi ti\u7871 t \u7913 ng v\u7899 i m\u7895 i c\u7909 m.\
+}

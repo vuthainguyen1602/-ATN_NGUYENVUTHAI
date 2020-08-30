@@ -1,0 +1,1240 @@
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.Cache
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.SplashScreen1.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.WaitForm1.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KQ_PC.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.Cache
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\xuand\Desktop\PhanCumSinhVien - Copy\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.Cache
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\EPPlus.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.Cache
+C:\Users\minhp\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\xuand\Desktop\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojResolveAssemblyReference.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v15.2.Core.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\stdole.dll
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojAssemblyReference.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CoreCompileInputs.cache
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CopyComplete
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+F:\TriTueViet\Tai Lieu Luan Van\ThuatToan\1.KMeans_PhanCumSinhVien\KMeans_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe.config
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Images.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\stdole.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.cache
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CopyComplete
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevComponents.DotNetBar.Charts.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevComponents.DotNetBar2.dll
+E:\TriTueViet\DonHang\01_05_2020\Kmean\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojAssemblyReference.cache
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe.config
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\stdole.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojAssemblyReference.cache
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.cache
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CopyComplete
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\ntvuu\Desktop\Kmedois_PhanCumSinhVien\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe.config
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\stdole.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojAssemblyReference.cache
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.cache
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CopyComplete
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\thainv\Desktop\Kmedois_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe.config
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.exe
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\PhanCumSinhVien.pdb
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.BonusSkins.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Export.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.CSharp.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Data.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Deployment.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Drawing.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Windows.Forms.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\System.Xml.Linq.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\stdole.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Pdf.v19.1.Drawing.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPdfViewer.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraScheduler.v19.1.Core.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\office.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPdfViewer.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraScheduler.v19.1.Core.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csprojAssemblyReference.cache
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DocDuLieu.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_GioiThieu.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCum.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_Main.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_PhanCumChiTiet.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_TroGiup.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.Properties.Resources.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_KhoiDong.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.frm_DangXuLy.resources
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.GenerateResource.cache
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe.licenses
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.csproj.CopyComplete
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.exe
+C:\Users\thainv\Desktop\Kmeans_PhanCumSinhVien18.08\SourceCode_PhanCumSinhVien\PhanCumSinhVien\obj\Debug\PhanCumSinhVien.pdb
