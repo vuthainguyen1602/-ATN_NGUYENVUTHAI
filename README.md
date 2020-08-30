@@ -6,5 +6,8 @@ This my personal project, is used to integrate K-MEANS algorithms into C#, .NET 
 Requires .NET 4.3, DevExpress 19.1
 
 $ mkdir new_folder
+
 $ cd new_folder
+
+
 $ git clone https://github.com/vuthainguyen1602/-ATN_NGUYENVUTHAI.git
